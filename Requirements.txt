@@ -1,0 +1,9 @@
+Requiments
+Pages and Layout
+* User should view the content
+
+Users and Registration
+* The website should have admins and users
+
+Tables and Database
+* The website should have categories

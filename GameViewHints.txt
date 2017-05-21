@@ -1,0 +1,10 @@
+MainLobby
+/**GameView**/
+* Review
+* Tags
+* Categories
+* Favorite/Star
+* Profiles
+* Lists
+* Public/Private
+* Admin/Users
