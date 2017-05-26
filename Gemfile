@@ -28,11 +28,17 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Use jquery as the JavaScript library
+gem 'jquery-rails'
+
 # Use Twitter Bootsrap library for front-end UI and layout
 gem 'bootstrap-sass'
 
 # Use Font Awesome sass gem for adding icons
 gem 'font-awesome-sass'
+
+# for forms layout
+gem 'simple_form'
 
 # Use Hirb for better database table display in console
 gem 'hirb'
