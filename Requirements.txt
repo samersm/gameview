@@ -1,4 +1,8 @@
 Requiments
+
+* Install, run and test device gem
+* I need to fix devise user id
+
 Pages and Layout
 * User should view the content
 

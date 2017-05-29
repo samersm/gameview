@@ -8,3 +8,9 @@ MainLobby
 * Lists
 * Public/Private
 * Admin/Users
+
+/**
+ *  rails s -b $IP -p $PORT
+ *  https://soulborn-mrsamer.c9users.io/
+ *
+ **/
