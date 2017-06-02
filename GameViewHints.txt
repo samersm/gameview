@@ -7,7 +7,8 @@ MainLobby
 * Profiles
 * Lists
 * Public/Private
-* Admin/Users
+* Admin/User
+* Render Data From Website
 
 /**
  *  rails s -b $IP -p $PORT
